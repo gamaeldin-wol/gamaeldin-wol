@@ -12,37 +12,25 @@ I build reliable backend services and RESTful APIs with **Python/FastAPI** and *
 - ✅ Strong in **unit and integration testing**, API validation, and preventing regressions.
 - ☁️ Comfortable across **SQL**, **AWS**, **Git**, and **CI/CD** workflows.
 - 🤝 Experienced collaborating with product, support, and engineering teams in **Agile/Scrum** environments.
-- 🧠 Interested in **AI-assisted development** — using GitHub Copilot and Claude Code responsibly, with careful review for correctness, security, and maintainability.
+- 🧠 Interested in **AI-assisted development** — using GitHub Copilot and Claude Code responsibly: checkpointed prompts that stop before design decisions, and careful review for correctness, security, and maintainability.
 - 📍 Based in Burnsville, Minnesota.
 
 ---
 
 ## Tech Stack & Skills
 
-**Languages**
+**Languages & Data**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Backend & APIs**
+**Backend, Delivery & Tooling**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white)
-![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-
-**Testing**
-
-![Unit Testing](https://img.shields.io/badge/Unit%20Testing-2E8B57?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Integration Testing](https://img.shields.io/badge/Integration%20Testing-1F6FEB?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![API Testing](https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Cloud, Delivery & Tools**
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
@@ -67,11 +55,15 @@ I build reliable backend services and RESTful APIs with **Python/FastAPI** and *
 
 ---
 
-## Featured Projects
+## What I'm Building
 
-> 🚧 **Projects coming soon.** This section is a living showcase — as I build and publish new GitHub projects, they'll be added here automatically.
+Three backend services are in progress in private repositories. Each one has its architecture
+decisions, test strategy, and reliability targets written down before implementation, and becomes
+public when it reaches a working vertical slice:
 
-Stay tuned for backend services, API experiments, and tooling projects.
+- **Incident SLA API** — Python, FastAPI, PostgreSQL, JWT, pytest, Docker, GitHub Actions
+- **Regulatory RAG service** — Python, FastAPI, hybrid retrieval with citations, evaluation harness
+- **Enterprise License API** — Java 25, Spring Boot 4.1, PostgreSQL, Flyway, JWT, RBAC
 
 ---
 
